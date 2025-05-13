@@ -1,0 +1,18 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "Textura dos fodas!",
+        "name": "H & T Pack",
+        "uuid": "a829ef08-e84f-4c5e-9ee7-d88aecfdbd1b",
+        "version": [ 0, 0, 2 ],
+        "min_engine_version": [ 1, 16, 200 ]
+    },
+    "modules": [
+        {
+            "description": "Textura dos fodas!",
+            "type": "resources",
+            "uuid": "fa6e90c8-c925-460f-8155-c8a60b753caa",
+            "version": [0, 0, 2]
+        }
+    ]
+}
